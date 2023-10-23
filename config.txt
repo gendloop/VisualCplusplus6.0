@@ -1,0 +1,5 @@
+
+PROJECT_NAME=VisualCplusplus6.0
+VisualCplusplus6.0_VERSION_MAJOR=6
+VisualCplusplus6.0_VERSION_MINOR=0
+VisualCplusplus6.0_VERSION_PATCH=8168
