@@ -1,9 +1,9 @@
-# RepoName
+# VisualCplusplus6.0
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/VisualCplusplus6.0
 ```
 
 ## Notes
